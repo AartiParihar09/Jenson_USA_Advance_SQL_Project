@@ -1,5 +1,6 @@
+🚴 Jenson USA Sales Analysis | SQL Project
 
-                                   🚴 Jenson USA Sales Analysis | SQL Project
+This project showcases my ability to use SQL for data cleaning, querying, aggregation, window functions, and business analysis. It demonstrates how raw data can be transformed into meaningful insights that support strategic business decisions.
 
 ## 📌 Project Overview
 This project is a SQL-based sales and business analysis using the Jenson USA Bike Store dataset. The objective is to solve real-world business problems by writing optimized SQL queries and applying advanced SQL concepts.
@@ -46,3 +47,4 @@ This project is a SQL-based sales and business analysis using the Jenson USA Bik
 - Practiced multi-table joins and relational database concepts.
 - Applied window functions and subqueries to solve analytical problems.
 - Built business-oriented SQL solutions for reporting and data analysis.
+  
